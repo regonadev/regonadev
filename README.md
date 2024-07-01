@@ -4,7 +4,7 @@
   src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmYyYThjNjBhYmI5NjFiOGYwMjg0YjhhNjFhYjZmMjNhMDMyODM5ZiZjdD1n/fpVVVj0Kl8RNExx0eN/giphy.gif" width="30%"/></p>
  
  
- <p align="center">I'm a student developer.<br/>I specialize in Web-Development.<br> I also love listening music and watching etc.<br></p><br/>
+ <p align="center">I'm a web developer.<br/>I specialize in Web-Development</p><br/>
  
  <p align = "center"><a href="https://www.buymeacoffee.com/regona"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
  
