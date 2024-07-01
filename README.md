@@ -13,15 +13,7 @@
  - 🔭 I'm working on web development and music.
  - 🌱 I’m currently learning C#.
  - 💬 Ask me about Front-end Web Development, Any tech-related stuff.
- 
- <summary><h2>To connect with me</h2></summary>
- 
- <p align = "center">
   
- [<img src ="https://img.shields.io/badge/portfolio-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://regona.org/)
- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/regonae/)
- </p>
- 
  <summary><h2>My Github Stats</h2> </summary> 
  
  <br>
