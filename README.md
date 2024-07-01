@@ -11,10 +11,8 @@
  <summary><h2>What I currently do?</h2></summary>
  
  - 🔭 I'm working on web development and music.
- - 🌱 I’m currently learning C# and doin' phonk beats.
- - 👯 I’m looking to collaborate on Frontend-Web projects.
- - 🤔 I’m looking for some free phonk beats.
- - 💬 Ask me about Flutter, Front-end Web Development, Any tech-related stuff.
+ - 🌱 I’m currently learning C#.
+ - 💬 Ask me about Front-end Web Development, Any tech-related stuff.
  
  <summary><h2>To connect with me</h2></summary>
  
